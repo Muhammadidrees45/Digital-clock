@@ -27,7 +27,6 @@
     height: 180px;
     color: #000000;
     gap: 1rem;
-    backdrop-filter: blur(1rem);
 }
 .container::before{
     content: " ";
